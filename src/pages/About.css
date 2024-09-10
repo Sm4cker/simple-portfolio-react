@@ -1,0 +1,18 @@
+.name   {
+    margin-top: -20px;
+    font-size: 60px;
+    text-align: start;
+    margin-left: 80px;
+    word-spacing: 20px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 70px;
+    color: #cccccc;
+}
+
+.desc{
+    margin-top: -10px;
+    margin-left: 80px;
+    text-align: justify;
+    margin-bottom: 36px;
+}

@@ -1,0 +1,12 @@
+.title-c{
+    color: #cccccc  ;
+}
+.btn-c{
+    background-color: transparent;
+    border: 1px solid #cccccc;
+    width: 200px;
+}
+.inp{
+    background: transparent;
+    color: #cccccc;
+}
